@@ -16,6 +16,8 @@ The goal was to attempt to develop a model with over 75% accuracy in predicting 
 
 ## Result 
 even though i had memory problem i was able to get the results.
+![Screenshot 2023-01-16 001629](https://user-images.githubusercontent.com/110137693/212604086-7c0c4bbd-b3a6-4898-8af8-d98ba82f46b9.png)
+![Screenshot 2023-01-16 001730](https://user-images.githubusercontent.com/110137693/212604104-c5655fbf-9248-4293-8be1-04a1b9a568c6.png)
 
 
 ## Summary
